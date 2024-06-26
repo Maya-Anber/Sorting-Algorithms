@@ -1,6 +1,6 @@
 # Sorting-Algorithms
 
-# Sorting Techniques Comparison
+### Sorting Techniques Comparison
 
 ## Objective
 This program compares three sorting techniques: Linear Sort, Bubble Sort, and Quick Sort. The comparison is made for different types of arrays (Random, Sorted, and Inversely Sorted) and for various array sizes (up to 10,000 elements). The program evaluates these techniques based on:
